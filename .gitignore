@@ -1,0 +1,17 @@
+# Ignore data files
+
+
+~$*
+Data/               ← ✅ Ignore all files in the Data directory
+Models/             ← ✅ Ignore all files in the Models directory
+.pkl               ← ✅ Ignore all pickle files
+
+Models/
+*.pkl
+*.db
+*.csv
+*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+*.dat
