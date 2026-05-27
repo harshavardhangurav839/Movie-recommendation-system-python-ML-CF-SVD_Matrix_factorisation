@@ -1,6 +1,7 @@
 # Movie Recommendation System for Streaming Platform
 
-> End-to-end data analytics and machine learning project for building a personalised movie recommendation system using Collaborative Filtering, SVD-based Matrix Factorisation, and comprehensive model evaluation — built on the MovieLens 1M dataset.
+> Recommending a movie is easy. Recommending the right movie — one a specific person will actually enjoy, based on the patterns in everything they have watched before — is a fundamentally different problem.
+This project builds a personalized recommendation engine that learns from user rating history using Collaborative Filtering and SVD-based Matrix Factorization. Instead of suggesting what is popular, it predicts what a particular user would rate highly — even for films they have never seen — by decomposing the entire user-movie rating matrix and finding hidden patterns in taste. Model quality is measured with RMSE and MAE to ensure the predictions are not just plausible but genuinely accurate.
 
 ## Table of Contents
 
@@ -450,4 +451,4 @@ This project demonstrates:
 
 **Harshavardhan Gurav**
 - 📧 Email: harshavardhangurav839@gmail.com
-- 💼 LinkedIn: [harshavardhan-gurav](https://www.linkedin.com/in/harshavardhan-gurav-a2ba0a20a)
+- 💼 LinkedIn: [harshavardhan-gurav](https://www.linkedin.com/in/harshavardhan-gurav-3284601a2/#:~:text=www.linkedin.com/in/harshavardhan%2Dgurav%2D3284601a2)
