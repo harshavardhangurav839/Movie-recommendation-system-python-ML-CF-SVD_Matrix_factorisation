@@ -1,7 +1,7 @@
 # Movie Recommendation System for Streaming Platform
 
-> Recommending a movie is easy. Recommending the right movie — one a specific person will actually enjoy, based on the patterns in everything they have watched before — is a fundamentally different problem.
-This project builds a personalized recommendation engine that learns from user rating history using Collaborative Filtering and SVD-based Matrix Factorization. Instead of suggesting what is popular, it predicts what a particular user would rate highly — even for films they have never seen — by decomposing the entire user-movie rating matrix and finding hidden patterns in taste. Model quality is measured with RMSE and MAE to ensure the predictions are not just plausible but genuinely accurate.
+> Recommending a movie is easy but recommending the right movie  one a specific person will actually enjoy, based on the patterns in everything they have watched before  is a fundamentally different problem.
+This project builds a personalized recommendation engine that learns from user rating history using Collaborative Filtering and SVD-based Matrix Factorization. Instead of suggesting what is popular, it predicts what a particular user would rate highly even for films they have never seen  by decomposing the entire user-movie rating matrix and finding hidden patterns in taste. Model quality is measured with RMSE and MAE to ensure the predictions are not just plausible but genuinely accurate.
 
 ## Table of Contents
 
